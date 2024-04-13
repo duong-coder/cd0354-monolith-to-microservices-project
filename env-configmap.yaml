@@ -5,7 +5,7 @@ metadata:
 data:
   POSTGRES_HOST: duongnh19-database.cl1gadzwvjxo.us-east-1.rds.amazonaws.com
   POSTGRES_DB: postgres
-  AWS_BUCKET: rn:aws:s3:::duongnh19-udacity
+  AWS_BUCKET: duongnh19-udacity-2
   AWS_REGION: us-east-1
   AWS_PROFILE: default
   JWT_SECRET: testing
