@@ -29,7 +29,7 @@ kubectl describe services
 ```bash
 kubectl describe hpa
 ```
-![Kubernetes hpa](/screenshots/get_hpa.png)
+![Kubernetes hpa](/screenshots/get_hpa_v2.png)
 
 * To verify that you have set up logging with a backend application
 ```bash
